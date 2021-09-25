@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/playWithVercel/static/css/main.a617e044.chunk.css",
+    "main.js": "/playWithVercel/static/js/main.a619e440.chunk.js",
+    "main.js.map": "/playWithVercel/static/js/main.a619e440.chunk.js.map",
+    "runtime-main.js": "/playWithVercel/static/js/runtime-main.0bf596f7.js",
+    "runtime-main.js.map": "/playWithVercel/static/js/runtime-main.0bf596f7.js.map",
+    "static/js/2.a7e7dc7c.chunk.js": "/playWithVercel/static/js/2.a7e7dc7c.chunk.js",
+    "static/js/2.a7e7dc7c.chunk.js.map": "/playWithVercel/static/js/2.a7e7dc7c.chunk.js.map",
+    "static/js/3.6c649511.chunk.js": "/playWithVercel/static/js/3.6c649511.chunk.js",
+    "static/js/3.6c649511.chunk.js.map": "/playWithVercel/static/js/3.6c649511.chunk.js.map",
+    "index.html": "/playWithVercel/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/playWithVercel/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a7e7dc7c.chunk.js.LICENSE.txt": "/playWithVercel/static/js/2.a7e7dc7c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/playWithVercel/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bf596f7.js",
+    "static/js/2.a7e7dc7c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a619e440.chunk.js"
+  ]
+}
